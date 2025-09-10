@@ -121,9 +121,11 @@ Elaborar una tabla en la que se especifique:
 * La profundidad de bit.
 * La calidad mostrada a esa profundidad.
 * Las observaciones correspondientes.
+---
 
 Responder: 
-*¿Cuál es la profundidad de bit adecuada para la imagen de esta práctica? 
+**¿Cuál es la profundidad de bit adecuada para la imagen de esta práctica?**
+---
 La profundidad adecuada depende del objetivo, si estamos buscando la máxima calidad dejando de lado el rendimiento siempre será mejor utilizar más bits, sin embargo, la mejor resolución relación rendimiento/calidad en mi opinión son 5 bits ya que a partir de esta resolución por bit difícilmente se observan cambios al aumentar el número de bits, y hace que la imagen sea mucho más ligera y fácil de procesar.
 
 | Profundidad de bit o Nbits (niveles de cuantificación) | Calidad (MB/B/R/M/MM) | Observaciones                    |
